@@ -221,13 +221,9 @@ streamlit run src/dashboard/dashboard.py
 
 Streamlit Cloud Deployment:
 
-(Add your deployed URL here)
+(https://sachinchaudhary2124-railway-ai-ins-srcdashboarddashboard-cvgdyy.streamlit.app/)
 
-Example:
 
-https://your-app.streamlit.app
-
----
 
 ## 📈 Future Enhancements
 
