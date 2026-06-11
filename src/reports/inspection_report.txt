@@ -1,0 +1,28 @@
+
+==================================================
+RAILWAY INSPECTION REPORT
+==================================================
+
+Report ID      : RAI-20260609-185315
+Timestamp      : 2026-06-09 18:53:15
+Inspector Name : AI Railway Inspector
+
+--------------------------------------------------
+
+Anomaly Type     : crack
+Confidence Score : 92.51%
+Priority Level   : HIGH
+
+Recommended Action:
+Schedule urgent rail inspection and repair.
+
+--------------------------------------------------
+Location Information
+--------------------------------------------------
+
+Latitude  : 21.1702
+Longitude : 72.8311
+
+==================================================
+END OF REPORT
+==================================================
